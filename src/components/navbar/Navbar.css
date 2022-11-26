@@ -1,0 +1,15 @@
+.navbar_container{
+    background-color: #8F2565;
+    color: #fff;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ul-item{
+    list-style: none;
+    display: inline-block;
+    margin-left: 50px;
+}
+
